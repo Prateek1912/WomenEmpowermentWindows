@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gohYQEK7LA4BWO4Kgmow11xfDuQm5mj9XORf5ohHN6pt1XWGwIKQmAtEPJa14uY5XOUNtZL82CfCJL/bqX8CRg==",
+  "dgSpecHash": "IFtczNmWweuyWvY9ovm82MsuoTOZi5QPEwGWb0ZrYdiFygKSKpNvqnKEorZb4orVPAUU/A71y7lb8Va7jizBCg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Prateek Joshi\\Desktop\\PROJECT_API\\WomenEmpowermentAPI\\WomenEmpowermentAPI.csproj",
+  "projectFilePath": "C:\\Users\\Prateek Joshi\\Desktop\\PROJECT_API\\WomenEmpowermentWindows\\WomenEmpowermentAPI\\WomenEmpowermentAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Prateek Joshi\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Prateek Joshi\\.nuget\\packages\\microsoft.aspnet.cors\\5.2.9\\microsoft.aspnet.cors.5.2.9.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Prateek Joshi\\Desktop\\PROJECT_API\\WomenEmpowermentAPI\\WomenEmpowermentAPI.csproj": {}
+    "C:\\Users\\Prateek Joshi\\Desktop\\PROJECT_API\\WomenEmpowermentWindows\\WomenEmpowermentAPI\\WomenEmpowermentAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Prateek Joshi\\Desktop\\PROJECT_API\\WomenEmpowermentAPI\\WomenEmpowermentAPI.csproj": {
+    "C:\\Users\\Prateek Joshi\\Desktop\\PROJECT_API\\WomenEmpowermentWindows\\WomenEmpowermentAPI\\WomenEmpowermentAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Prateek Joshi\\Desktop\\PROJECT_API\\WomenEmpowermentAPI\\WomenEmpowermentAPI.csproj",
+        "projectUniqueName": "C:\\Users\\Prateek Joshi\\Desktop\\PROJECT_API\\WomenEmpowermentWindows\\WomenEmpowermentAPI\\WomenEmpowermentAPI.csproj",
         "projectName": "WomenEmpowermentAPI",
-        "projectPath": "C:\\Users\\Prateek Joshi\\Desktop\\PROJECT_API\\WomenEmpowermentAPI\\WomenEmpowermentAPI.csproj",
+        "projectPath": "C:\\Users\\Prateek Joshi\\Desktop\\PROJECT_API\\WomenEmpowermentWindows\\WomenEmpowermentAPI\\WomenEmpowermentAPI.csproj",
         "packagesPath": "C:\\Users\\Prateek Joshi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Prateek Joshi\\Desktop\\PROJECT_API\\WomenEmpowermentAPI\\obj\\",
+        "outputPath": "C:\\Users\\Prateek Joshi\\Desktop\\PROJECT_API\\WomenEmpowermentWindows\\WomenEmpowermentAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Prateek Joshi\\AppData\\Roaming\\NuGet\\NuGet.Config",
